@@ -12,11 +12,11 @@ never claim more than they measure.</p>
 
 | | | |
 |---|---|---|
-| **[NOBAD VPN](https://nobad-platform.aassworld99.workers.dev/products/vpn/)** | WireGuard VPN for Windows with a kill switch, DNS leak block, Network Intelligence and an Evil Twin check. | [`nobad`](https://github.com/nobad-studio/nobad) · stable |
-| **NOBAD Find** | Private, offline search for everything on your PC: names, the text inside files, and meaning. | [`nobad`](https://github.com/nobad-studio/nobad/tree/main/apps/find) · in development |
-| **[NOBAD File Bridge](https://nobad-platform.aassworld99.workers.dev/products/file-bridge/)** | Open, copy, edit and back up the files on your website or server, right from your PC. | [`file-bridge`](https://github.com/nobad-studio/file-bridge) · in development |
+| **[NOBAD VPN](https://nobad-platform.nobad-studio.workers.dev/products/vpn/)** | WireGuard VPN for Windows with a kill switch, DNS leak block, Network Intelligence and an Evil Twin check. | [`Nobad-VPN`](https://github.com/nobad-studio/Nobad-VPN) · stable |
+| **NOBAD Find** | Private, offline search for everything on your PC: names, the text inside files, and meaning. | [`Nobad-VPN`](https://github.com/nobad-studio/Nobad-VPN/tree/main/apps/find) · in development |
+| **[NOBAD File Bridge](https://nobad-platform.nobad-studio.workers.dev/products/file-bridge/)** | Open, copy, edit and back up the files on your website or server, right from your PC. | [`file-bridge`](https://github.com/nobad-studio/file-bridge) · in development |
 
-Website: [`website`](https://github.com/nobad-studio/website) · [nobad-platform.aassworld99.workers.dev](https://nobad-platform.aassworld99.workers.dev/)
+Website: [`website`](https://github.com/nobad-studio/website) · [nobad-platform.nobad-studio.workers.dev](https://nobad-platform.nobad-studio.workers.dev/)
 
 ## Contribute
 Everything is built in the open, and contributions of every size are welcome.
@@ -25,5 +25,5 @@ Everything is built in the open, and contributions of every size are welcome.
 3. Start with a [`good first issue`](https://github.com/search?q=org%3Anobad-studio+label%3A%22good+first+issue%22+state%3Aopen&type=issues),
    or ask in a repository's Discussions.
 
-Code is [MIT licensed](https://github.com/nobad-studio/nobad/blob/main/LICENSE). Forks are welcome; published forks use
+Code is [MIT licensed](https://github.com/nobad-studio/Nobad-VPN/blob/main/LICENSE). Forks are welcome; published forks use
 their own name ([brand policy](https://github.com/nobad-studio/.github/blob/main/TRADEMARKS.md)). Security problems: report them privately, see [SECURITY.md](https://github.com/nobad-studio/.github/blob/main/SECURITY.md).
