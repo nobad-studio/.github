@@ -12,11 +12,11 @@ never claim more than they measure.</p>
 
 | | | |
 |---|---|---|
-| **[NOBAD VPN](https://nobad-platform.aassworld99.workers.dev/products/vpn/)** | WireGuard VPN for Windows with a kill switch, DNS leak block, Network Intelligence and an Evil Twin check. | [`Nobad-VPN`](https://github.com/nobad-studio/Nobad-VPN) · stable |
+| **[NOBAD VPN](https://nobad-platform.nobad-studio.workers.dev/products/vpn/)** | WireGuard VPN for Windows with a kill switch, DNS leak block, Network Intelligence and an Evil Twin check. | [`Nobad-VPN`](https://github.com/nobad-studio/Nobad-VPN) · stable |
 | **NOBAD Find** | Private, offline search for everything on your PC: names, the text inside files, and meaning. | [`Nobad-VPN`](https://github.com/nobad-studio/Nobad-VPN/tree/main/apps/find) · in development |
-| **[NOBAD File Bridge](https://nobad-platform.aassworld99.workers.dev/products/file-bridge/)** | Open, copy, edit and back up the files on your website or server, right from your PC. | [`file-bridge`](https://github.com/nobad-studio/file-bridge) · in development |
+| **[NOBAD File Bridge](https://nobad-platform.nobad-studio.workers.dev/products/file-bridge/)** | Open, copy, edit and back up the files on your website or server, right from your PC. | [`file-bridge`](https://github.com/nobad-studio/file-bridge) · in development |
 
-Website: [`website`](https://github.com/nobad-studio/website) · [nobad-platform.aassworld99.workers.dev](https://nobad-platform.aassworld99.workers.dev/)
+Website: [`website`](https://github.com/nobad-studio/website) · [nobad-platform.nobad-studio.workers.dev](https://nobad-platform.nobad-studio.workers.dev/)
 
 ## Contribute
 Everything is built in the open, and contributions of every size are welcome.
