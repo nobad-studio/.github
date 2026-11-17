@@ -4,7 +4,7 @@ Please **don't open a public issue** for a security problem.
 
 Report it privately with GitHub's **private vulnerability reporting**: open the affected repository, go to
 **Security → Report a vulnerability**. For example:
-- NOBAD VPN and NOBAD Find: https://github.com/nobad-studio/nobad/security/advisories/new
+- NOBAD VPN and NOBAD Find: https://github.com/nobad-studio/Nobad-VPN/security/advisories/new
 - NOBAD File Bridge: https://github.com/nobad-studio/file-bridge/security/advisories/new
 - The website: https://github.com/nobad-studio/website/security/advisories/new
 
