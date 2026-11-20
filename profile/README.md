@@ -13,7 +13,7 @@ never claim more than they measure.</p>
 | | | |
 |---|---|---|
 | **[NOBAD VPN](https://nobad-platform.nobad-studio.workers.dev/products/vpn/)** | WireGuard VPN for Windows with a kill switch, DNS leak block, Network Intelligence and an Evil Twin check. | [`Nobad-VPN`](https://github.com/nobad-studio/Nobad-VPN) · [releases](https://github.com/nobad-studio/Nobad-VPN/releases?q=vpn-v) · v1.6.1, Windows · available |
-| **[NOBAD Find](https://nobad-platform.nobad-studio.workers.dev/products/find/)** | Private, offline search for your own files: by name, by the words inside, by meaning and photos by what's in them. Nothing leaves your PC. | [`Nobad-VPN`](https://github.com/nobad-studio/Nobad-VPN/tree/main/apps/find) · [releases](https://github.com/nobad-studio/Nobad-VPN/releases?q=find-v) · v0.6.0, Windows · available |
+| **[NOBAD Find](https://nobad-platform.nobad-studio.workers.dev/products/find/)** | Private, offline search for your own files: by name, by the words inside, by meaning and photos by what's in them. Nothing leaves your PC. | [`find`](https://github.com/nobad-studio/find) · [releases](https://github.com/nobad-studio/Nobad-VPN/releases?q=find-v) · v0.8.5, Windows · available |
 | **[NOBAD File Bridge](https://nobad-platform.nobad-studio.workers.dev/products/file-bridge/)** | Open, copy, edit and back up the files on your website or server, right from your PC. | [`file-bridge`](https://github.com/nobad-studio/file-bridge) · [releases](https://github.com/nobad-studio/file-bridge/releases) · v0.5.2, Windows & Linux · available |
 
 Website: [`website`](https://github.com/nobad-studio/website) · [nobad-platform.nobad-studio.workers.dev](https://nobad-platform.nobad-studio.workers.dev/)
